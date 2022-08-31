@@ -1,0 +1,6 @@
+generatorName: react
+outputDir: samples/client/petstore/react
+inputSpec: modules/openapi-generator/src/test/resources/3_0/petstore.yaml
+templateDir: modules/openapi-generator/src/main/resources/react
+additionalProperties:
+  hideGenerationTimestamp: "true"
